@@ -24,7 +24,9 @@
 - Database schema for a school management system.
 
 # Featured Dashboards
-** Pictures will be inserted soon **
+- Bureau of Economic Analysis Figures in USD Billions
+- <img width="1156" height="648" alt="image" src="https://github.com/user-attachments/assets/3cbc9169-5a5a-485d-ba6f-63a0bac665e6" />
+
 
 # About CokoNet Academy
 - This work follows the curriculum provided by CokoNet Academy, focusing on transitioning from foundational coding to advance data storytelling.
